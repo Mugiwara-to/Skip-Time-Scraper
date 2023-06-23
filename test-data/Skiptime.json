@@ -1,0 +1,65 @@
+[
+  {
+    "episodeNo": 1,
+    "opSkip": {
+      "startTime": 28.783,
+      "endTime": 118.783,
+      "skipId": "bf98fb07-c8f8-4399-baa4-1579f03b7e90",
+      "episodeLength": 1500.04
+    },
+    "edSkip": {
+      "startTime": 1387.996,
+      "endTime": 1500,
+      "skipId": "b60b5bf4-7fc9-40e9-b178-71d2a4f0e6c9",
+      "episodeLength": 1500.146
+    },
+    "recapSkip": {
+      "startTime": 350.875,
+      "endTime": 439.643,
+      "skipId": "f541ce66-6cdd-4a6d-99cf-4edb892b5e45",
+      "episodeLength": 1405.109
+    }
+  },
+  {
+    "episodeNo": 2,
+    "opSkip": {
+      "startTime": 0,
+      "endTime": 110.859,
+      "skipId": "219e3b7f-db25-4b74-9095-d5525e779da6",
+      "episodeLength": 1476.96
+    },
+    "edSkip": {
+      "startTime": 1389.903,
+      "endTime": 1479.903,
+      "skipId": "62df5782-4731-4ecd-9e5e-dd15873e3a3e",
+      "episodeLength": 1500.04
+    },
+    "recapSkip": {
+      "startTime": null,
+      "endTime": null,
+      "skipId": null,
+      "episodeLength": null
+    }
+  },
+  {
+    "episodeNo": 3,
+    "opSkip": {
+      "startTime": 3.535,
+      "endTime": 125,
+      "skipId": "5b0953bc-66ba-4c85-8427-8f0c385a8530",
+      "episodeLength": 1500.042
+    },
+    "edSkip": {
+      "startTime": 1390.975,
+      "endTime": 1499.875,
+      "skipId": "2d843765-b8fc-4ed9-aff6-bdf21ada0022",
+      "episodeLength": 1500.1251
+    },
+    "recapSkip": {
+      "startTime": null,
+      "endTime": null,
+      "skipId": null,
+      "episodeLength": null
+    }
+  }
+]
