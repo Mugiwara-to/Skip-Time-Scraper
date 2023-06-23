@@ -1,0 +1,6392 @@
+[
+  {
+    "episodeNo": 1,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 2,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 3,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 4,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 5,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 6,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 7,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 8,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 9,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 10,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 11,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 12,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 13,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 14,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 15,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 16,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 17,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 18,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 19,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 20,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 21,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 22,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 23,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 24,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 25,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 26,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 27,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 28,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 29,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 30,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 31,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 32,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 33,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 34,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 35,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 36,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 37,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 38,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 39,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 40,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 41,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 42,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 43,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 44,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 45,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 46,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 47,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 48,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 49,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 50,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 51,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 52,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 53,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 54,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 55,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 56,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 57,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 58,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 59,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 60,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 61,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 62,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 63,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 64,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 65,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 66,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 67,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 68,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 69,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 70,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 71,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 72,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 73,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 74,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 75,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 76,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 77,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 78,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 79,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 80,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 81,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 82,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 83,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 84,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 85,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 86,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 87,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 88,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 89,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 90,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 91,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 92,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 93,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 94,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 95,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 96,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 97,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 98,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 99,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 100,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 101,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 102,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 103,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 104,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 105,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 106,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 107,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 108,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 109,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 110,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 111,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 112,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 113,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 114,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 115,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 116,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 117,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 118,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 119,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 120,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 121,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 122,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 123,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 124,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 125,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 126,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 127,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 128,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 129,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 130,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 131,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 132,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 133,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 134,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 135,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 136,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 137,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 138,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 139,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 140,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 141,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 142,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 143,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 144,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 145,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 146,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 147,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 148,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 149,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 150,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 151,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 152,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 153,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 154,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 155,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 156,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 157,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 158,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 159,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 160,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 161,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 162,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 163,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 164,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 165,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 166,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 167,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 168,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 169,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 170,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 171,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 172,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 173,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 174,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 175,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 176,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 177,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 178,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 179,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 180,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 181,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 182,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 183,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 184,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 185,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 186,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 187,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 188,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 189,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 190,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 191,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 192,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 193,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 194,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 195,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 196,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 197,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 198,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 199,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 200,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 201,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 202,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 203,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 204,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 205,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 206,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 207,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 208,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 209,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 210,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 211,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 212,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 213,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 214,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 215,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 216,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 217,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 218,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 219,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 220,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 221,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 222,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 223,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 224,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 225,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 226,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 227,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 228,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 229,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 230,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 231,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 232,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 233,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 234,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 235,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 236,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 237,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 238,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 239,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 240,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 241,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 242,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 243,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 244,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 245,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 246,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 247,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 248,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 249,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 250,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 251,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 252,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 253,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 254,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 255,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 256,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 257,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 258,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 259,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 260,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 261,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 262,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 263,
+    "opSkip": "Has all data",
+    "edSkip": "Has only endTime",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 264,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 265,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has only endTime"
+  },
+  {
+    "episodeNo": 266,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 267,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 268,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 269,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has only endTime"
+  },
+  {
+    "episodeNo": 270,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 271,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 272,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 273,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 274,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has only endTime"
+  },
+  {
+    "episodeNo": 275,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 276,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 277,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 278,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 279,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 280,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 281,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 282,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 283,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 284,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 285,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 286,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 287,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 288,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 289,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 290,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 291,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 292,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 293,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 294,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 295,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 296,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 297,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 298,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 299,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 300,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 301,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 302,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 303,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 304,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 305,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 306,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 307,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 308,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 309,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 310,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 311,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 312,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 313,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 314,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 315,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 316,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 317,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 318,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 319,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 320,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 321,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 322,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has only endTime",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 323,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 324,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 325,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 326,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 327,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 328,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 329,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 330,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 331,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 332,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 333,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 334,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 335,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 336,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 337,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 338,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 339,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 340,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 341,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 342,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 343,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 344,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 345,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 346,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 347,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 348,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 349,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 350,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 351,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 352,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 353,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 354,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 355,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 356,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 357,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 358,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 359,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 360,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 361,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 362,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 363,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 364,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 365,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 366,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 367,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 368,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 369,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 370,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 371,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 372,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 373,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 374,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 375,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 376,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 377,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 378,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 379,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 380,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 381,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 382,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 383,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 384,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 385,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 386,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 387,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 388,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 389,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 390,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 391,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 392,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 393,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 394,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 395,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 396,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 397,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 398,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 399,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 400,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 401,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 402,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 403,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 404,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 405,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 406,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 407,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 408,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 409,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 410,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 411,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 412,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 413,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 414,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 415,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 416,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 417,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 418,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 419,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 420,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 421,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 422,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 423,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 424,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 425,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 426,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 427,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 428,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 429,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 430,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 431,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 432,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 433,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 434,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 435,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 436,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 437,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 438,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 439,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 440,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has only endTime"
+  },
+  {
+    "episodeNo": 441,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 442,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 443,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 444,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 445,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 446,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 447,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 448,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 449,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 450,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 451,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 452,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 453,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 454,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 455,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 456,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 457,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 458,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 459,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 460,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 461,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 462,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 463,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 464,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 465,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 466,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 467,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 468,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 469,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 470,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 471,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 472,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 473,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 474,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 475,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 476,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 477,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 478,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 479,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 480,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 481,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 482,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 483,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 484,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 485,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 486,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 487,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 488,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 489,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 490,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 491,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 492,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 493,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 494,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 495,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 496,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 497,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 498,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 499,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 500,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 501,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 502,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 503,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 504,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 505,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 506,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 507,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 508,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 509,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 510,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 511,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 512,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 513,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 514,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 515,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 516,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 517,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 518,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 519,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 520,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 521,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 522,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 523,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 524,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 525,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 526,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 527,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 528,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 529,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 530,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 531,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 532,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 533,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 534,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 535,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 536,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 537,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 538,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 539,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 540,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 541,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 542,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 543,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 544,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 545,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 546,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 547,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 548,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 549,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 550,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 551,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 552,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 553,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 554,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 555,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 556,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 557,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 558,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 559,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 560,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 561,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 562,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 563,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 564,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 565,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 566,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 567,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 568,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 569,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 570,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 571,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 572,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 573,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 574,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 575,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 576,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 577,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 578,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 579,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 580,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 581,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 582,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 583,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 584,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 585,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 586,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 587,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 588,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 589,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 590,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 591,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 592,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 593,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 594,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 595,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 596,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 597,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 598,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 599,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 600,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 601,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 602,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 603,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 604,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 605,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 606,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 607,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 608,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 609,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 610,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 611,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 612,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 613,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 614,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 615,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 616,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 617,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 618,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 619,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 620,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 621,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 622,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 623,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 624,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 625,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 626,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 627,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 628,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 629,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 630,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 631,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 632,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 633,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 634,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 635,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 636,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 637,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 638,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 639,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 640,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 641,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 642,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 643,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 644,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 645,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 646,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 647,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 648,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 649,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 650,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 651,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 652,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 653,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 654,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 655,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 656,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 657,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 658,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 659,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 660,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 661,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 662,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 663,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 664,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 665,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 666,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 667,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 668,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 669,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 670,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 671,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 672,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 673,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 674,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 675,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 676,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 677,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has only endTime"
+  },
+  {
+    "episodeNo": 678,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 679,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 680,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 681,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 682,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 683,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 684,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 685,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 686,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 687,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 688,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 689,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 690,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 691,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 692,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 693,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 694,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 695,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 696,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 697,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 698,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 699,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 700,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 701,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 702,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 703,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 704,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 705,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 706,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 707,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 708,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 709,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 710,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 711,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 712,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 713,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 714,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 715,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 716,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 717,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 718,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 719,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 720,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 721,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 722,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 723,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 724,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 725,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 726,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 727,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 728,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 729,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 730,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 731,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 732,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 733,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 734,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 735,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 736,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 737,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 738,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 739,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 740,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 741,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 742,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 743,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 744,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 745,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 746,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 747,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 748,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 749,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 750,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 751,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 752,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 753,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 754,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 755,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 756,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 757,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 758,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 759,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 760,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 761,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 762,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 763,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 764,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 765,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 766,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 767,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 768,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 769,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 770,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 771,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 772,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 773,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 774,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 775,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 776,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 777,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 778,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 779,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 780,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 781,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 782,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 783,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 784,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 785,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 786,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 787,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 788,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 789,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 790,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 791,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 792,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 793,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 794,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 795,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 796,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 797,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 798,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 799,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 800,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 801,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 802,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 803,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 804,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 805,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 806,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 807,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 808,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 809,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 810,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 811,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 812,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 813,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 814,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 815,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 816,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 817,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 818,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 819,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 820,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 821,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 822,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 823,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 824,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 825,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 826,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 827,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 828,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 829,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 830,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 831,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 832,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 833,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 834,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 835,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 836,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 837,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 838,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 839,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 840,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 841,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 842,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 843,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 844,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 845,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 846,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 847,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 848,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 849,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 850,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 851,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 852,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 853,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 854,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 855,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 856,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 857,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 858,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 859,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 860,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 861,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 862,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 863,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 864,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 865,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 866,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 867,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 868,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 869,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 870,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 871,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 872,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 873,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 874,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 875,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 876,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 877,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 878,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 879,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 880,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 881,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 882,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 883,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 884,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 885,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 886,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 887,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 888,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 889,
+    "opSkip": "Has no data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 890,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 891,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 892,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 893,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 894,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 895,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 896,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 897,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 898,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 899,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 900,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 901,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 902,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 903,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 904,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 905,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 906,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 907,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 908,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 909,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 910,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 911,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 912,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 913,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 914,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 915,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 916,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 917,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 918,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 919,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 920,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 921,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 922,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 923,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 924,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 925,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 926,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 927,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 928,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 929,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 930,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 931,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 932,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 933,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 934,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 935,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 936,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 937,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 938,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 939,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 940,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 941,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 942,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 943,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 944,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 945,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 946,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 947,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 948,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 949,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 950,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 951,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 952,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 953,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 954,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 955,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 956,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 957,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 958,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 959,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 960,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 961,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 962,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 963,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 964,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 965,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 966,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 967,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 968,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 969,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 970,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 971,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 972,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 973,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 974,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 975,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 976,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 977,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 978,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 979,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 980,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 981,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 982,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 983,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 984,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 985,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 986,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 987,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 988,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 989,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 990,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 991,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 992,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 993,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 994,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 995,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 996,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 997,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 998,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 999,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1000,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1001,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1002,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1003,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has only endTime"
+  },
+  {
+    "episodeNo": 1004,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1005,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 1006,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 1007,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 1008,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1009,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1010,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1011,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1012,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1013,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1014,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1015,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1016,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 1017,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 1018,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1019,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1020,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1021,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1022,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1023,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 1024,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 1025,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 1026,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 1027,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 1028,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1029,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1030,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1031,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1032,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1033,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1034,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1035,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 1036,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1037,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1038,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has all data"
+  },
+  {
+    "episodeNo": 1039,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1040,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1041,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1042,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1043,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1044,
+    "opSkip": "Has only endTime",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1045,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1046,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1047,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1048,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1049,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1050,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1051,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1052,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1053,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1054,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1055,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1056,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1057,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1058,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1059,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1060,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1061,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1062,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1063,
+    "opSkip": "Has no data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1064,
+    "opSkip": "Has all data",
+    "edSkip": "Has no data",
+    "recapSkip": "Has no data"
+  },
+  {
+    "episodeNo": 1065,
+    "opSkip": "Has all data",
+    "edSkip": "Has all data",
+    "recapSkip": "Has all data"
+  }
+]
